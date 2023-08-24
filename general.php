@@ -8,6 +8,7 @@
 	CENTRAL</font> <font color="yellow">STATSTICAL</font> AGENCY<font color="red"> OF ETHIOPIA</font><font color="green">
 	የኢትዮጵያ</font> <font color="yellow">ማዕከላዊ</font><font color="red"> ስታትስትክስ</font> ኤጀንስ</marquee></font></strong></a>
       </div>
+
       <div class="searchform">
 
       </div>
